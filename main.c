@@ -1,6 +1,5 @@
 #include "shell.h"
-#include <fcntl.h>
-#include <errno.h>
+
 /**
  * main - entry point
  * @ac: arg count
